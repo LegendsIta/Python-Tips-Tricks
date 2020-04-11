@@ -4,5 +4,5 @@ def listToDictionary(lst):
 list = ["Hello","world","simple","test"]
 print(listToDictionary(list))
 
- - OUTPUT - 
-» {'Hello': 'world', 'simple': 'test'}
+# - OUTPUT - #
+#» {'Hello': 'world', 'simple': 'test'}
